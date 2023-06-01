@@ -1,6 +1,6 @@
 const obj={
     name:'selva',
-    id:3
+    id:31
 }
 
 console.log(obj)
